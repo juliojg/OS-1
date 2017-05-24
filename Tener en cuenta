@@ -1,0 +1,25 @@
+Cosas a tener en cuenta.
+
+Un juego lleva:
+> JuegoID
+> Un tablero
+> Nombre y Pid de los jugadores
+> Nombre y Pid de observadores
+> A quien le toca, turno
+
+1.- Un usuario no se puede registrar dos veces con el comando CON.
+	SOLUCIONADO.
+
+	No puedo hacer NEW o otra cosa si no estoy registrado.
+	SOLUCIONADO.
+
+2.- 
+
+
+
+
+####################################3
+
+1> agregar balanceo al spawn de psocket
+2> arreglar balanceo que se haga justo antes de llamar a pcommand
+3> 
